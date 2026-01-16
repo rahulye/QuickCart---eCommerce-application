@@ -1,0 +1,6 @@
+.error-cont {
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+  margin-top: 2rem;
+}
